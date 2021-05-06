@@ -1,0 +1,30 @@
+.main {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.reactions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.reactions__radio-wrapper {
+  position: relative;
+  width: 17%;
+}
+
+.reactions__radio {
+  display: none;
+}
+
+.reactions__label {
+  display: block;
+  cursor: pointer;
+  filter: grayscale(100%);
+  opacity: 0.7;
+}
+
+.reactions__radio:checked + .reactions__label, .reactions__radio:hover + .reactions__label{
+  filter: none;
+  opacity: 1;
+}
