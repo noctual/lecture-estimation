@@ -28,3 +28,25 @@
   filter: none;
   opacity: 1;
 }
+
+.results__items{
+  display: flex;
+  flex-direction: column-reverse
+}
+
+.results__item{
+  display: flex;
+  align-items: center;
+}
+
+.results__icon{
+  width: 40px;
+  margin: 5px;
+}
+
+.results__span{
+  display: inline-block;
+  background: #42ff9e;
+  padding-left: 5px;
+  padding-right: 5px;
+}
