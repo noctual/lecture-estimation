@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lecture-estimation/static/css/main.a7ffbc41.chunk.css",
+    "main.js": "/lecture-estimation/static/js/main.f05d0081.chunk.js",
+    "main.js.map": "/lecture-estimation/static/js/main.f05d0081.chunk.js.map",
+    "runtime-main.js": "/lecture-estimation/static/js/runtime-main.290ef714.js",
+    "runtime-main.js.map": "/lecture-estimation/static/js/runtime-main.290ef714.js.map",
+    "static/js/2.3d0be88e.chunk.js": "/lecture-estimation/static/js/2.3d0be88e.chunk.js",
+    "static/js/2.3d0be88e.chunk.js.map": "/lecture-estimation/static/js/2.3d0be88e.chunk.js.map",
+    "static/js/3.996b4657.chunk.js": "/lecture-estimation/static/js/3.996b4657.chunk.js",
+    "static/js/3.996b4657.chunk.js.map": "/lecture-estimation/static/js/3.996b4657.chunk.js.map",
+    "index.html": "/lecture-estimation/index.html",
+    "static/css/main.a7ffbc41.chunk.css.map": "/lecture-estimation/static/css/main.a7ffbc41.chunk.css.map",
+    "static/js/2.3d0be88e.chunk.js.LICENSE.txt": "/lecture-estimation/static/js/2.3d0be88e.chunk.js.LICENSE.txt",
+    "static/media/calm.fe61c2af.svg": "/lecture-estimation/static/media/calm.fe61c2af.svg",
+    "static/media/confused.db9b8efb.svg": "/lecture-estimation/static/media/confused.db9b8efb.svg",
+    "static/media/love.71b52726.svg": "/lecture-estimation/static/media/love.71b52726.svg",
+    "static/media/sad.8471fa19.svg": "/lecture-estimation/static/media/sad.8471fa19.svg",
+    "static/media/satisfied.8c5e0f39.svg": "/lecture-estimation/static/media/satisfied.8c5e0f39.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.290ef714.js",
+    "static/js/2.3d0be88e.chunk.js",
+    "static/css/main.a7ffbc41.chunk.css",
+    "static/js/main.f05d0081.chunk.js"
+  ]
+}
