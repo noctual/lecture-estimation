@@ -21,7 +21,7 @@ class LectureList extends Component{
   
     render() {
       const listItems = this.state.lectures.map(
-        (lec) => <li className="lecture-list__item"><h2><Link to={'/lecture/' + lec.key}>{lec.name}</Link></h2></li>
+        (lec) => <li className="lecture-list__item"><h2><Link to={'/lecture-estimation/lecture/' + lec.key}>{lec.name}</Link></h2></li>
       );
       return (
         <div className="lecture-list">
