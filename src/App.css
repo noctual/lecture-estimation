@@ -3,6 +3,10 @@
   margin: 0 auto;
 }
 
+.lecture-title{
+  text-align: center;
+}
+
 .reactions {
   display: flex;
   justify-content: space-between;
